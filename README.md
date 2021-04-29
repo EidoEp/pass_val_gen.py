@@ -3,7 +3,7 @@ A small password validator and generator I made.
 
 The script is based on this table:
 
-![Password chart](https://user-images.githubusercontent.com/83390530/116510409-88b11200-a8cd-11eb-8fb6-04ab9984dd36.png)
+![Password chart](https://user-images.githubusercontent.com/83390530/116511429-1c371280-a8cf-11eb-9075-3d38043f50db.png)
 
 The interface:
 
