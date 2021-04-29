@@ -7,4 +7,4 @@ The script is based on this table:
 
 The interface:
 
-![Display](https://user-images.githubusercontent.com/83390530/116510559-c4e47280-a8cd-11eb-9b29-88fc28286860.png)
+![Display](https://user-images.githubusercontent.com/83390530/116510846-3de3ca00-a8ce-11eb-9b2a-ca626c4b0ba9.png)
